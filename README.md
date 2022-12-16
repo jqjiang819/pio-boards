@@ -5,7 +5,7 @@
 Go to core directory of PlatformIO, and clone this repo:
 
 ```bash
-git clone https://github.com/jqjiang819/pio-custom-boards.git boards
+git clone https://github.com/RatsPIO/boards.git boards
 ```
 
 ## Boards
